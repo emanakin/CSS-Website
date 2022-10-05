@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', arial, serif;
+}
+
+hr {
+    border-top: 5px dotted;
+    width: 4%;
+    color: rgb(172, 172, 172);
+    
+    
+}
+
+h1 {
+    font-size: 5.62rem;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    line-height: 1;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    padding: 14px;
+    text-decoration: none;
+    color: #026d6d;
+
+}
+
+a:hover {
+    color: #00acac;
+}
+
+.top-container{
+    background-color: #e0e5fe;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.middle-container {
+    margin-top: 5%;
+    position: relative;
+}
+
+.bottom-container {
+    margin-top: 200px;
+    background-color: #66BFBF;
+    height: 90px;
+    padding: 5%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.mountain {
+    margin: 0%;
+
+}
+
+.computer-picture {
+    
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    
+    
+}
+
+.coding-picture {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skill-row-two {
+    width: 50%;
+    margin: 155px auto 100px auto;
+    text-align: left;
+}
+
+
+.copyright {
+    color: white;
+}
+
+
+.skills {
+    margin-top: 70px;
+    margin-bottom: 150px;
+}
+
+.contact-me {
+    margin-top: 70px;
+}
+
+.profile {
+    margin-bottom: 70px;
+}
+
+
+.btn {
+    background: #6bd1d1;
+    background-image: linear-gradient(to bottom, #6bd1d1, #59d4d4);
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 45px;
+    transform: translate(-50%, -50%);
+
+    
+  }
+  
+  .btn:hover {
+    background: #5fe3e3;
+    background-image: linear-gradient(to bottom, #5fe3e3, #3ce8e8);
+    text-decoration: none;
+  }
